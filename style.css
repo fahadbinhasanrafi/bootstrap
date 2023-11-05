@@ -13,8 +13,18 @@ h4,
 h5,
 h6 {
   font-family: var(--font-family) !important;
+  line-height: 130% !important;
+  font-weight: 600 !important;
 }
 
-p, span, a, button {
+p, span, a {
   font-family: var(--font-family) !important;
+  line-height: 149% !important;
+  font-weight: 400 !important;
+}
+
+button {
+  font-family: var(--font-family) !important;
+  line-height: 149% !important;
+  font-weight: 600 !important;
 }
